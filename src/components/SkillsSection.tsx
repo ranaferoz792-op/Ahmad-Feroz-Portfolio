@@ -78,7 +78,6 @@ const SkillsSection = () => {
           animate={inView ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.6 }}
         >
-          <span className="font-mono text-sm text-primary mb-2 block">// tech stack</span>
           <h2 className="text-4xl md:text-5xl font-bold">Skills & Tools</h2>
         </motion.div>
 

@@ -22,7 +22,7 @@ const AboutSection = () => {
           animate={inView ? { opacity: 1, y: 0 } : {}}
           transition={{ duration: 0.6 }}
         >
-          <span className="font-mono text-sm text-primary mb-2 block">// about me</span>
+          
           <h2 className="text-4xl md:text-5xl font-bold">Get to Know Me</h2>
         </motion.div>
 

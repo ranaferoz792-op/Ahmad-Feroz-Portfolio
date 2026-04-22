@@ -107,7 +107,6 @@ const ContactSection = () => {
           animate={inView ? { opacity: 1 } : {}}
           transition={{ duration: 0.5 }}
         >
-          // let's connect
         </motion.span>
         <motion.h2
           className="text-4xl md:text-6xl font-bold mb-6"
