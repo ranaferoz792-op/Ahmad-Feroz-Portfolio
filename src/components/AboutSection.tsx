@@ -10,11 +10,7 @@ const AboutSection = () => {
     { num: "8 Months", label: "Months Experience" },
     { num: "2+", label: "Projects Delivered" },
     { num: "2+", label: "Happy Clients" },
-<<<<<<< HEAD
     { num: "4+", label: "Open Source Repos" },
-=======
-    { num: "1+", label: "Open Source Repos" },
->>>>>>> 12e4a61da714230c45878209f4faa69c40231357
   ];
 
   return (
