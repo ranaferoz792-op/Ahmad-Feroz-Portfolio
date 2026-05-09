@@ -5,11 +5,16 @@ import { useRef, useState } from "react";
 const projects = [
   {
     title: "Burac.ai",
+<<<<<<< HEAD
     description: "AI-driven web platform delivering smart automation, modern user experiences, and scalable digital solutions powered by advanced technologies.",
+=======
+    description: "Real-time monitoring dashboard for cloud infrastructure with live metrics, alerts, and team collaboration.",
+>>>>>>> 12e4a61da714230c45878209f4faa69c40231357
     tech: ["React", "TypeScript", "D3.js", "WebSocket"],
     github: "https://github.com/ranaferoz792-op",
     live: "https://burac.ai/",
   },
+<<<<<<< HEAD  
   {
     title: "Gul Shahbaz Beauty Salon",
     description: "A modern and fully responsive beauty salon website designed to deliver an elegant and user-friendly experience. The platform showcases salon services, pricing, gallery sections, smooth navigation, and a visually appealing interface built with modern web technologies for enhanced customer engagement.",
@@ -17,6 +22,15 @@ const projects = [
     github: "https://github.com/ranaferoz792-op/GulShahbaz-Beauty-Salon-",
     live: "https://gul-shahbaz-beauty-salon.vercel.app/",
   },
+=======
+  // {
+  //   title: "DevFlow CLI",
+  //   description: "Open-source command-line tool that streamlines dev workflows with automated testing and deployment.",
+  //   tech: ["Rust", "GitHub API", "Docker"],
+  //   github: "https://github.com/ranaferoz792-op",
+  //   live: "#",
+  // },
+>>>>>>> 12e4a61da714230c45878209f4faa69c40231357
   // {
   //   title: "Neural Notes",
   //   description: "AI-powered note-taking app that auto-organizes your thoughts using natural language processing.",
