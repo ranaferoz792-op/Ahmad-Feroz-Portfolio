@@ -18,6 +18,13 @@ const projects = [
     github: "https://github.com/ranaferoz792-op/GulShahbaz-Beauty-Salon-",
     live: "https://gul-shahbaz-beauty-salon.vercel.app/",
   },
+{
+  title: "Employee Dashboard",
+  description:"A modern and fully responsive Employee Dashboard developed to streamline employee management and workplace operations. The system includes features such as leave application management, leave status tracking, employee records handling, dashboard analytics, and an intuitive user interface. Built with modern frontend technologies to provide a smooth, efficient, and user-friendly experience for organizations.",
+  tech: ["React", "TypeScript", "Tailwind CSS", "Vercel"],
+  github: "https://github.com/ranaferoz792-op/Employee-Dashboard",
+  live: "https://github.com/ranaferoz792-op/Employee-Dashboard",
+},
 
   // {
   //   title: "DevFlow CLI",

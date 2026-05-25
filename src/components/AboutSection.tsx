@@ -8,9 +8,9 @@ const AboutSection = () => {
 
   const stats = [
     { num: "8 Months", label: "Months Experience" },
-    { num: "2+", label: "Projects Delivered" },
-    { num: "2+", label: "Happy Clients" },
-    { num: "4+", label: "Open Source Repos" },
+    { num: "3+", label: "Projects Delivered" },
+    { num: "3+", label: "Happy Clients" },
+    { num: "5+", label: "Open Source Repos" },
   ];
 
   return (
